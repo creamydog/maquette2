@@ -1,0 +1,136 @@
+
+header {
+background-image:url("../img/image-499666622.jpg");
+
+}
+
+.logo {
+list-style: none;
+
+}
+
+.menu1 {
+  list-style: none;
+  display:flex;
+  justify-content: space-between;
+
+}
+
+.menu1 a {
+text-decoration: none;
+
+
+}
+
+.entete {
+display:flex;
+
+}
+
+h1 {
+text-align: left;
+}
+
+p {
+text-align: left;
+
+}
+
+
+button {
+
+}
+
+.sevices {
+
+}
+
+
+#features {
+color:grey;
+font-family: monospace;
+
+}
+
+.article1 {
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+
+  }
+
+
+.article2 {
+  display:flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#bloc3 {
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+color: grey;
+font-family: monospace;
+
+}
+
+.titre {
+display:flex;
+align-items: center;
+justify-content: space-between;
+flex-flow: wrap;
+}
+
+.ligne {
+width:300px;
+
+}
+
+#nav-li{
+  list-style: none;
+  display:flex;
+  justify-content: space-between;
+  padding: 10px;
+  max-width: 400px;
+  flex-flow: wrap;
+}
+
+#nav-li > li #all {
+  color: orange;
+}
+
+#nav-li > li a{
+  text-decoration: none;
+  color:grey;
+
+}
+
+.portfolio-image {
+width:200px;
+height: 200px;
+
+  }
+
+.portfolio {
+display:flex;
+justify-content: center;
+flex-flow: wrap;
+
+}

@@ -1,0 +1,43 @@
+header {
+
+width:100%;
+}
+
+.meth {
+
+text-decoration:none;
+}
+
+.menu1 {
+display:inline-block;
+text-decoration:none;
+}
+
+h1 {
+font-size:30px;
+margin-left:23px;
+
+}
+
+p {
+font-size:16px;
+margin-left:23px;
+}
+
+button {
+color:FFFFFF;
+background-color:FF4500;
+
+}
+
+#services>h2
+{
+  margin-left:23px
+  font-size:16px
+
+}
+
+
+
+
+}
